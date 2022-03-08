@@ -7,6 +7,9 @@ This app works with **OpenWeatherMap API[^*]** to get current weather in real-ti
   - Current location button
   - Search by city text field
   - Search button
+  - Temperature label
+  - Temperature condition
+  - City label
 - Color mode
   - two background images for dark and light mode (the color mode is base on the phone's settings)
 
